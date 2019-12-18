@@ -1,0 +1,9 @@
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\bin\Debug\Hexagons.exe.config
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\bin\Debug\Hexagons.exe
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\bin\Debug\Hexagons.pdb
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\obj\Debug\Hexagons.csprojAssemblyReference.cache
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\obj\Debug\Hexagons.Form1.resources
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\obj\Debug\Hexagons.Properties.Resources.resources
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\obj\Debug\Hexagons.csproj.GenerateResource.cache
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\obj\Debug\Hexagons.exe
+D:\Csharp Projets\MyWindowsFormsApp\Hexagons\obj\Debug\Hexagons.pdb
